@@ -1,8 +1,12 @@
 {
-  "name": "ym-og-images",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "name": "ym-images-proxy",
+  "version": "1.0.0",
+  "description": "Images proxy for YomuProjects",
+  "author": {
+    "name": "Vitu2002",
+    "email": "contact@vitu2002.dev",
+    "url": "https://vitu2002.dev"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
